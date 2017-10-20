@@ -16,7 +16,10 @@ import java.sql.Statement;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
+/*you might need to add commons-lang3-3.5 library 
+in case of net-beans inner jdbc:mysql library fails
+you can find it with the conf file in the same repo
+*/
 public class Database {
 
     private Statement statement;/*statement to use for query*/
