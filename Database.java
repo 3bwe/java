@@ -54,7 +54,7 @@ public class Database {
     }
 
     private void readConfig() throws FileNotFoundException {
-        File file = new File("conf/database.conf");/*defining the config file*/
+        File file = new File("database.conf");/*defining the config file*/
         Scanner scanner = new Scanner(file);/*starting scanner*/
         String conf = "";
         while (scanner.hasNextLine()) {
