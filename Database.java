@@ -2,9 +2,9 @@
 This class has been programmed to make it 
 easier for people to connect to database
 and manipulate queries with java
-it's free to use,edit and publish
+its free to use, edit and publish
 Just don't forget to mention the source
-Barakat Abwe-Palestin/Nablus
+Barakat Abweh/Nablus-Palestine
 */
 /*needed libraries for IO/SQL/LOGGING*/
 import java.io.File;
